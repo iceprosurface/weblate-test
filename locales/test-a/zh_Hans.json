@@ -1,0 +1,20 @@
+{
+    "key": "汉字",
+    "keyDeep": {
+        "inner": "汉字"
+    },
+    "keyNesting": "汉字 $t(keyDeep.inner)",
+    "keyInterpolate": "汉字 this {{value}}",
+    "keyInterpolateUnescaped": "汉字 汉字 {{- value}}",
+    "keyInterpolateWithFormatting": "汉字 {{value, format}}",
+    "keyContext_male": "汉字",
+    "keyContext_female": "汉字",
+    "keyPluralSimple": "汉字",
+    "keyPluralSimple_plural": "汉字",
+    "keyPluralMultipleEgArabic_0": "the plural form 0",
+    "keyPluralMultipleEgArabic_1": "the plural form 1",
+    "keyPluralMultipleEgArabic_2": "the plural form 2",
+    "keyPluralMultipleEgArabic_3": "the plural form 3",
+    "keyPluralMultipleEgArabic_4": "the plural form 4",
+    "keyPluralMultipleEgArabic_5": "the plural form 5"
+}
